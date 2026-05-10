@@ -1,2 +1,2 @@
-# ml-practice
+# ML-full course
 for practice ml sessions
